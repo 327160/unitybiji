@@ -2,7 +2,9 @@
 
 
 
-[day01](./day01.md)
+[day01](./bji/day01.md)
+
+
 
 
 
